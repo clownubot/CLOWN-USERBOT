@@ -5,8 +5,8 @@
     <img src="https://img.shields.io/github/forks/ramadhani892/RAM-UBOT?label=Fork&style=social">
     
   </a>
-  <a href="https://github.com/ramadhani892/RAM-UBOT">
-    <img src="https://img.shields.io/github/stars/ramadhani892/RAM-UBOT?style=social">
+  <a href="https://github.com/clownubot/CLOWN-USERBOT">
+    <img src="https://img.shields.io/github/stars/clownubot/CLOWN-USERBOT?style=social">
   </a>
 </p>  
 
